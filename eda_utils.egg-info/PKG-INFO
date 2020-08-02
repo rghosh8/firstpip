@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: eda-utils
+Version: 0.0.1
+Summary: this is an experimental package
+Home-page: https://github.com/rghosh8/firstpip.git
+Author: rajat ghosh
+Author-email: rajat.ghosh11@gmail.com
+License: UNKNOWN
+Description: This is my first pip file. the intent of this pip file is to include all the utilities libraries to plot in python
+        
+        ```Python
+        import pandas as pd
+        import numpy as np
+        import matplotlib.pyplot as plt
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
